@@ -12,4 +12,5 @@ import java.util.List;
 public class BatchDataRequest {
     private List<DataItem> items;
     private Integer count;
+    private String query;
 }
