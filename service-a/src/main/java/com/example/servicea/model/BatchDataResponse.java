@@ -12,4 +12,7 @@ import java.util.List;
 public class BatchDataResponse {
     private List<DataItem> results;
     private long processTimeMs;
+    String abc;
+    String abds;
+    String abdds;
 }
