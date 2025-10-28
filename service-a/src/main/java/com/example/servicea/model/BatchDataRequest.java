@@ -11,4 +11,5 @@ import java.util.List;
 @AllArgsConstructor
 public class BatchDataRequest {
     private List<DataItem> items;
+    private Integer count;
 }
