@@ -15,4 +15,5 @@ public class BatchDataResponse {
     String abc;
     String abds;
     String abdds;
+    String sdsdsd;
 }
