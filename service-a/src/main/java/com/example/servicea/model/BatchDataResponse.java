@@ -14,4 +14,5 @@ public class BatchDataResponse {
     private long processTimeMs;
     String abc;
     String abds;
+    String abdds;
 }
